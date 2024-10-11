@@ -1,5 +1,8 @@
 # projek-uts-kdjk
 
+## Sekilas Tentang
+Tamari adalah aplikasi web gratis dan open source yang membantu user mengelola resep masakan. Fitur-fitur utamanya mencakup pembuatan akun user dengan login menggunakan email, pengelompokan resep berdasarkan kategori dan favorit, serta fitur meal planner yang memungkinkan user menjadwalkan masakan hingga 30 hari ke depan. User juga dapat membuat daftar belanja berdasarkan bahan resep dan menandai item yang telah dibeli. Aplikasi ini mendukung kustomisasi seperti tema, gambar profil, dan gaya tampilan resep, serta memungkinkan impor/ekspor data. Selain itu, Tamari menawarkan lebih dari 100.000 resep yang dapat dicari dan disimpan langsung tanpa harus mengunjungi situs asli.
+
 ## Automation scripts
 
 ### Installing Docker
@@ -77,3 +80,7 @@ docker compose up -d
 ```
 
 flag -d ditambahkan untuk menjalankan aplikasi dalam mode detach. setelah berhasil di build aplikasi akan berjalan dalam port 4888.
+
+## Cara Pemakaian
+1. Sebelum dapat mengakses Tamari Web App, kita diharuskan membuat akun terlebih dahulu
+![image](https://github.com/user-attachments/assets/7edf2cbd-be4b-41a4-ae52-8ee80192eb12)
