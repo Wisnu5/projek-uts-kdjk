@@ -96,7 +96,7 @@ flag -d ditambahkan untuk menjalankan aplikasi dalam mode detach. setelah berhas
 <img src="https://github.com/user-attachments/assets/081b4e1c-9b69-40bc-95ef-f8ea4a9ad2c9"> <br>
 7. User juga dapat menambahkan resep sendiri & mengisi format sebagai berikut
 <img src="https://github.com/user-attachments/assets/19952934-e461-4826-ac1d-cc48fd30ddad"> <br>
-8. User dapat menyertakan source link resep yang akan diupload dan website akan membantu otomatis mengisi form sesuai resep pada link tersebut
+8. User dapat menyertakan source link resep yang akan diupload dan website akan membantu otomatis mengisi form sesuai resep pada link tersebut <br>
 <img src="https://github.com/user-attachments/assets/ce0bdebb-ea9d-4513-bcdc-d35d5dc407b5"> <br>
 9. Setelah mengisi form di atas, ditampilkan resep yang baru ditambahkan dan pindah ke bagian My Recipes 
 <img src="https://github.com/user-attachments/assets/2cfe4d21-430c-42f2-877c-b6c6fd628b9c"> <br>
@@ -132,9 +132,9 @@ After: <br>
 <img src="https://github.com/user-attachments/assets/760843e2-57fa-431f-b977-401e36472117"> <br>
 22. User juga dapat mengganti password & menghapus akun <br>
 <img src="https://github.com/user-attachments/assets/aeace88b-0980-4cf4-895e-9d89400cdb5c"> <br>
-23. User dapat melakukan Sign Out (Logo Profile bagian kanan atas)
+23. User dapat melakukan Sign Out (Logo Profile bagian kanan atas) <br>
 <img src="https://github.com/user-attachments/assets/1e0d68a6-0ab3-444d-b21e-23e6d2d90afa"> <br>
-24. User berhasil melakukan logout
+24. User berhasil melakukan logout <br>
 <img src="https://github.com/user-attachments/assets/b4200b3e-cdd0-40ef-9d58-8edfed6d05ae"> <br>
 25. User dapat kembali melakukan login dan data sebelumnya pada website tetap ada
 <img src="https://github.com/user-attachments/assets/babad38b-4f3f-413b-b7c0-23f9e682de84"> <br>
