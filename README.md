@@ -1,7 +1,7 @@
 # projek-uts-kdjk
 Tugas Projek sesi UTS mata kuliah Komdat kelompok 6, Dapat diakses di 
 
-Kelompok 6 KDJK P2:
+Kelompok 6 KDJK P3:
 1. Wisnu Al Hussaeni (G6401221008) ‎  ‎ ‎ 
 2. Numero Uno Arroefy (G6401221014)‎ ‎ ‎ 
 3. Aisha Fitria Salsabila (G6401221019)‎ ‎ ‎
@@ -12,8 +12,8 @@ Kelompok 6 KDJK P2:
 
 ![image](https://github.com/user-attachments/assets/ec139aff-4e5d-40aa-8591-f66b2906570f)
 
-[Sekilas Tentang](#sekilas-tentang) | [Instalasi](#automation-scripts) | [Cara Pemakaian](#cara-pemakaian) | [Pembahasan](#pembahasan) | [Referensi](#referensi)
-:---:|:---:|:---:|:---:|:---:
+[Sekilas Tentang](#sekilas-tentang) | [Instalasi](#automation-scripts) | [Otomisasi](#build-docker-image) |[Cara Pemakaian](#cara-pemakaian) | [Pembahasan](#pembahasan) | [Referensi](#referensi)
+:---:|:---:|:---:|:---:|:---:|:---:
 
 ## Sekilas Tentang
 Tamari adalah aplikasi web gratis dan open source yang membantu user mengelola resep masakan. Fitur-fitur utamanya mencakup pembuatan akun user dengan login menggunakan email, pengelompokan resep berdasarkan kategori dan favorit, serta fitur meal planner yang memungkinkan user menjadwalkan masakan hingga 30 hari ke depan. User juga dapat membuat daftar belanja berdasarkan bahan resep dan menandai item yang telah dibeli. Aplikasi ini mendukung kustomisasi seperti tema, gambar profil, dan gaya tampilan resep, serta memungkinkan impor/ekspor data. Selain itu, Tamari menawarkan lebih dari 100.000 resep yang dapat dicari dan disimpan langsung tanpa harus mengunjungi situs asli.
