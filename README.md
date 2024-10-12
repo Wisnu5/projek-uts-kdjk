@@ -1,5 +1,5 @@
 # projek-uts-kdjk
-Tugas Projek sesi UTS mata kuliah Komdat kelompok 6, Dapat diakses di 
+Tugas Projek sesi UTS mata kuliah Komdat kelompok 6, Dapat diakses di http://103.139.193.140:4888/
 
 Kelompok 6 KDJK P3:
 1. Wisnu Al Hussaeni (G6401221008) ‎  ‎ ‎ 
