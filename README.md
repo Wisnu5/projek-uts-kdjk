@@ -1,9 +1,16 @@
 # projek-uts-kdjk
 Tugas Projek sesi UTS mata kuliah Komdat kelompok 6, Dapat diakses di 
 
-![image](https://github.com/user-attachments/assets/ec139aff-4e5d-40aa-8591-f66b2906570f)
+Kelompok 6 KDJK P2:
+1. Wisnu Al Hussaeni (G6401221008) ‎  ‎ ‎ 
+2. Numero Uno Arroefy (G6401221014)‎ ‎ ‎ 
+3. Aisha Fitria Salsabila (G6401221019)‎ ‎ ‎
+4. Ahmad Qaulan Sadida‎ (G6401221032) 
+5. T. Mochamad Rafly‎ (G6401221121)
 
-# Aplikasi Web Leantime
+# Aplikasi Web Tamari
+
+![image](https://github.com/user-attachments/assets/ec139aff-4e5d-40aa-8591-f66b2906570f)
 
 [Sekilas Tentang](#sekilas-tentang) | [Instalasi](#automation-scripts) | [Cara Pemakaian](#cara-pemakaian) | [Pembahasan](#pembahasan) | [Referensi](#referensi)
 :---:|:---:|:---:|:---:|:---:
