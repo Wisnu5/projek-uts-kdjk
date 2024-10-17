@@ -96,6 +96,30 @@ docker compose up -d
 
 flag -d ditambahkan untuk menjalankan aplikasi dalam mode detach. setelah berhasil di build aplikasi akan berjalan dalam port 4888.
 
+## VPS hosting
+
+setelah dapat menjalankan di local agar bisa diakses melalui internet, kita memerlukan ip publik. Kami memutuskan untuk menggunakan VPS dari IDCloud.
+
+![{CB471819-DF4A-4198-8494-FC7701A3BFE7}](https://github.com/user-attachments/assets/86b71cfe-f85e-45d8-855c-7ea54bd9e112)
+
+disini kami memutuskan menggunakan VPS dengan spesifikasi terendah yaitu 2 GB ram dan 20 GB memory.
+
+![{0C42A5EA-C98E-4A01-B882-128DB4969038}](https://github.com/user-attachments/assets/e5152a58-f5fb-460a-b3a4-2ca91e68d7da)
+
+setelah VPS berhasil dibuild kita akan mendapat kredensial untuk ssh, setelah masuk ke sesi ssh kita bisa mengikuti step automasi diatas untuk mendownload docker, ketika docker sudah terisntall maka kita hanya perlu untuk menjalankan applikasi dengan perintah
+
+```
+docker compose up -d
+```
+dan aplikasi berjalan pada port 4888, dapat kita cek dengan perintah
+
+```
+docker ps
+```
+
+![image](https://github.com/user-attachments/assets/c0efb157-fe2b-4aca-9628-cd0ccc68d415)
+
+
 ## Cara Pemakaian
 1. Sebelum dapat mengakses Tamari Web App, kita diharuskan membuat akun terlebih dahulu <br>
 <img src="https://github.com/user-attachments/assets/7edf2cbd-be4b-41a4-ae52-8ee80192eb12"> <br>
