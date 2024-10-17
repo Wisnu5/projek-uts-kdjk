@@ -98,11 +98,11 @@ flag -d ditambahkan untuk menjalankan aplikasi dalam mode detach. setelah berhas
 
 ## VPS hosting
 
-setelah dapat menjalankan di local agar bisa diakses melalui internet, kita memerlukan ip publik. Kami memutuskan untuk menggunakan VPS dari IDCloud.
+setelah dapat menjalankan di local agar bisa diakses melalui internet, kita memerlukan ip publik. Kami memutuskan untuk menggunakan VPS dari IDCloud. Kita bisa membuka lama compute dan klik tombol new untuk membuat resource baru
 
 ![{CB471819-DF4A-4198-8494-FC7701A3BFE7}](https://github.com/user-attachments/assets/86b71cfe-f85e-45d8-855c-7ea54bd9e112)
 
-disini kami memutuskan menggunakan VPS dengan spesifikasi terendah yaitu 2 GB ram dan 20 GB memory.
+disini kami memutuskan menggunakan VPS dengan spesifikasi terendah yaitu 2 GB ram dan 20 GB memory dengan operasi sistem ubuntu.
 
 ![{0C42A5EA-C98E-4A01-B882-128DB4969038}](https://github.com/user-attachments/assets/e5152a58-f5fb-460a-b3a4-2ca91e68d7da)
 
